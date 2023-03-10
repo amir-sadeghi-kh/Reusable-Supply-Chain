@@ -10,7 +10,7 @@ This repository includes all of the necessary code and data files for running th
 
 I hope that my work can be of assistance to those who are interested in inventory management or nonlinear optimization techniques. Please feel free to explore the repository and provide any feedback or suggestions you may have.
 
-Additionally, I would like to note that the code in this repository is based on the methodology used in my paper entitled "Grey wolf optimizer and whale optimization algorithm for stochastic inventory management of reusable products in a two-level supply chain", which is under review in Journal of Soft Computing. The code provided here was used to generate the results and findings presented in the paper.
+Additionally, I would like to note that the code in this repository is based on the methodology used in my paper entitled "Grey wolf optimizer and whale optimization algorithm for stochastic inventory management of reusable products in a two-level supply chain", which is under review in Journal of IEEE Access. The code provided here was used to generate the results and findings presented in the paper.
 
 I encourage you to take a look at the paper for a deeper understanding of the problem being solved and the methodology used. The paper can be accessed at [HERE](https://arxiv.org/abs/2302.05796).
 
