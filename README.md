@@ -19,13 +19,11 @@ Thank you for your interest in our work.
 ## Citation
 To cite this work, please use
 ```
-@ARTICLE{sadeghi2023grey,
+@article{sadeghi2023grey,
+  title={Grey Wolf Optimizer and Whale Optimization Algorithm for Stochastic Inventory Management of Reusable Products in a two-level Supply Chain},
   author={Sadeghi, Amir Hossein and Bani, Erfan Amani and Fallahi, Ali and Handfield, Robert},
-  journal={IEEE Access}, 
-  title={Grey Wolf Optimizer and Whale Optimization Algorithm for Stochastic Inventory Management of Reusable Products in a Two-Level Supply Chain}, 
+  journal={IEEE Access},
   year={2023},
-  volume={11},
-  number={},
-  pages={40278-40297},
-  doi={10.1109/ACCESS.2023.3269292}}
+  publisher={IEEE}
+}
 ```
